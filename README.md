@@ -1,2 +1,2 @@
 # hello-world
-CS246 Week 4 Assignment
+CS246 Week 4 Prepare/Reading Assignment
